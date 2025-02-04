@@ -1,4 +1,4 @@
-# wise_academy
+# Monetree
 
 A new Flutter project.
 
